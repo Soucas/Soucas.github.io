@@ -1,0 +1,36 @@
+/*aqui van mis clases*/
+h1 {
+  text-align: center;
+  color: blue;
+  font-family: "Arial"; 
+
+}
+h2{
+	text-align: center;
+	color: yellow;
+}
+body{
+	padding: 20px;
+	
+}
+
+img{
+	align-self: center;
+}
+table#t01 tr{
+background-color: #33ccff;
+ width: 100%; 
+ text-align: center
+}
+table#t02 tr{
+background-color:orange;
+ width: 100%; 
+ text-align: center
+}
+body{
+	background-color: #b3ffb3;
+
+}
+svg{
+	margin-left: 450px;
+}
