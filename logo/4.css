@@ -1,0 +1,8 @@
+.flotar { float: right;
+margin: 20px }
+.colocar { clear: left; 
+margin:20px;}
+figcaption{display: block;
+margin-right:20px;
+color: green;}
+img{margin-right:20px;}
