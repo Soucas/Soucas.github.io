@@ -1,0 +1,30 @@
+body {
+	font-family: "Times New Roman", serif;
+	background-color: #374F59;}
+h3 {
+  text-align: center;
+  text-transform: uppercase;
+  color: red;
+}
+
+p {
+	margin-left: 50px;
+	font-size: 20pt;
+	color: lime;}
+a:link {
+	color: brown; }
+a:visited {
+color: blue; }
+table, th, td {
+border:8px solid black;
+}
+p {outline-color:red;}
+
+p.dotted {outline-style: dotted;}
+p.dashed {outline-style: dashed;}
+p.solid {outline-style: solid;}
+p.double {outline-style: double;}
+p.groove {outline-style: groove;}
+p.ridge {outline-style: ridge;}
+p.inset {outline-style: inset;}
+p.outset {outline-style: outset;}
