@@ -4,3 +4,13 @@ body{
 	color: red;
 }
 h1{color: hotpink;}
+h1 {
+  width: 100px;
+  height: 100px;
+  background: red;
+  position: relative;
+  -webkit-animation: mymove 5s infinite; /* Safari 4.0 - 8.0 */
+  -webkit-animation-delay: 2s; /* Safari 4.0 - 8.0 */
+  animation: mymove 5s infinite;
+  animation-delay: 2s;
+}
